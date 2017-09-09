@@ -66,6 +66,8 @@ public class Zmienne {
         System.out.println(1 << 16); // 0001 << 2 == 0100
         System.out.println();
 
+        // to jest komentarz
+
 
 
     }
